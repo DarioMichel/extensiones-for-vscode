@@ -1,16 +1,5 @@
 # DarkIU README
 
-## Working with Markdown
+# Bienvenidos a la extension de Dariuus, estare subiendo actualizaciones de esta extension conforme vaya viendo que mejoras visuales puedo incluir.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# Este tema esta dirigido a personas que son mas sencibles a los tonos nitidos y necesitan un mayor constraste para una mejor experiencia en el codigo
