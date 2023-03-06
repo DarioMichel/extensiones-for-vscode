@@ -1,0 +1,32 @@
+{
+  "name": "darkiu",
+  "displayName": "DarkIU",
+  "description": "theme for a user's specials see.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension codigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension codigo-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/icon-darkiu.png",
+  "author": {
+    "name": "Dario Martinez",
+    "email": "dariuuslml@gmail.com",
+    "url":"https://www.linkedin.com/in/dario-michel-mart%C3%ADnez-cuevas-846224201/"
+  },
+  "repository": {
+    "url": "https://github.com/DarioMichel/extensiones-for-vscode.git",
+    "type": "git"
+  },
+  "publisher": "Dariuus"
+}
